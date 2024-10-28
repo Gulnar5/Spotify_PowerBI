@@ -6,6 +6,7 @@ This project is designed to create a Power BI dashboard based on Spotify data. T
 Project Objective
 This Power BI dashboard is developed to help users track trends in Spotify songs, view details of specific tracks and artists, and analyze data across different years.
 
+![Screenshot 2024-10-28 111106](https://github.com/user-attachments/assets/0451705f-8eec-4f0f-a599-a16d9f038e44)
 ______________________________________________________________________________________________________________
 
 Dashboard Elements
